@@ -24,7 +24,7 @@ https://github.com/Zaraxxx/LedClock/assets/4549331/9ef5d2f4-3cb5-48b5-a711-30bcc
 https://github.com/Zaraxxx/LedClock/assets/4549331/d54164a9-b64c-496b-8ca9-6ccf728a1d47
 
 #### Compiled version for ESP32:
-https://github.com/Zaraxxx/LedClock/blob/main/Compiled/ESP32/firmware.bin
+https://github.com/Zaraxxx/LedClock/blob/main/Compiled/ESP32/
 
 ## Special thanks 
 
