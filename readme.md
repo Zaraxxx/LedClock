@@ -6,7 +6,6 @@ LedClock is a fork from WLED git repo.
 
 His code has been amended to fit the ShelfClock project that I built from DIY Machines (https://www.diymachines.co.uk/how-to-build-a-giant-hidden-shelf-edge-clock)
 
-I only combined the two projects.
 
 ## Result
 
