@@ -15,8 +15,6 @@ https://github.com/Zaraxxx/LedClock/assets/4549331/75a12cff-6844-4a17-aa16-0d269
 
 https://github.com/Zaraxxx/LedClock/assets/4549331/5f6aab29-f024-49ae-a8ca-5e44e7943155
 
-
-
 #### Video of WLED effects with the StopWatch mod from LedClock:
 
 https://github.com/Zaraxxx/LedClock/assets/4549331/9ef5d2f4-3cb5-48b5-a711-30bcc172a45a
@@ -25,6 +23,8 @@ https://github.com/Zaraxxx/LedClock/assets/4549331/9ef5d2f4-3cb5-48b5-a711-30bcc
 
 https://github.com/Zaraxxx/LedClock/assets/4549331/d54164a9-b64c-496b-8ca9-6ccf728a1d47
 
+#### Compiled version for ESP32:
+https://github.com/Zaraxxx/LedClock/blob/main/Compiled/ESP32/firmware.bin
 
 ## Special thanks 
 
